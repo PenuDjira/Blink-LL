@@ -35,7 +35,7 @@ You can run this project by follow this steps:
 	- Open: ![PulseView Button Toggle Analysis](assets/pulseview/logic-analyzer-signal-view.png)
 
 ## Another Documentations
-YT: [PenuDjira](https://www.youtube.com/PenuDjira)
-<a href="https://www.youtube.com/channel/PenuDjira?sub_confirmation=1"><img scr="https://img.shields.io/badge/SUBSCRIBE-CLICK%20HERE-red?style=flat-square&logo=youtube" alt="Subscribe YouTube"> </a>
+YT: [PenuDjira](https://www.youtube.com/@PenuDjira)
+<a href="https://www.youtube.com/channel/@PenuDjira?sub_confirmation=1"><img scr="https://img.shields.io/badge/SUBSCRIBE-CLICK%20HERE-red?style=flat-square&logo=youtube" alt="Subscribe YouTube"> </a>
 
 
